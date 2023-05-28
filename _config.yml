@@ -1,0 +1,25 @@
+#
+# This file contains configuration flags to customize your site
+#
+# Name of your site (Summer Writers Club)
+title: A Class Half Full 
+# Short bio or description (We all have characters who only we can bring to life and stories only we can write the moral for.)
+description: A blog that is about giving students a place to practive free writing to build a love for the most expression fueled art.
+
+#
+# !! DON'T EDIT BELOW THIS MESSAGE
+#
+# Use the following plug-ins
+plugins:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+theme: jekyll-theme-time-machine

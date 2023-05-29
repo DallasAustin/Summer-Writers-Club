@@ -1,10 +1,10 @@
 #
 # This file contains configuration flags to customize your site
 #
-# Name of your site (Summer Writers Club)
-title: A Class Half Full 
-# Short bio or description (We all have characters who only we can bring to life and stories only we can write the moral for.)
-description: A blog that is about giving students a place to practive free writing to build a love for the most expression fueled art.
+# Name of your site (The Summer Writers Club)
+title: Summer Writers Club
+# Short bio or description (I built this site to develop creative writing skill early in the student's career.)
+description: A blog that is about giving young writers an opportunity to explore a no stakes environment to grow. Blog.
 
 #
 # !! DON'T EDIT BELOW THIS MESSAGE
@@ -22,4 +22,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-leap-day
